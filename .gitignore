@@ -1,0 +1,15 @@
+*.pyc
+.idea
+.ipynb_checkpoints
+*.bak
+*.swp
+*.zip
+*.csv
+*.bz2
+*.json
+*.osm
+*.txt
+*.mp4
+*.xlsx
+*.Rda
+*.tsv
